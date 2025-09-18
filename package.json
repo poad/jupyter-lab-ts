@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "pnpm": "^10.16.1"
+    "pnpm": "^10.17.0"
   },
   "packageManager": "pnpm@10.16.1"
 }
