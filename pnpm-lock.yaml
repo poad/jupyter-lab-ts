@@ -9,16 +9,16 @@ importers:
   .:
     devDependencies:
       pnpm:
-        specifier: ^10.33.0
-        version: 10.33.0
+        specifier: ^10.33.1
+        version: 10.33.1
 
 packages:
 
-  pnpm@10.33.0:
-    resolution: {integrity: sha512-EFaLtKavtYyes2MNqQzJUWQXq+vT+rvmc58K55VyjaFJHp21pUTHatjrdXD1xLs9bGN7LLQb/c20f6gjyGSTGQ==}
+  pnpm@10.33.1:
+    resolution: {integrity: sha512-Bbo8HV0cGPaN8GRw10BV5i1B/BEKDGYNsbLfsnhTJ/BM8PaDRdRgm8Ugief6A0PDFZOy+VlOLF1dpCYjCsyYIA==}
     engines: {node: '>=18.12'}
     hasBin: true
 
 snapshots:
 
-  pnpm@10.33.0: {}
+  pnpm@10.33.1: {}
