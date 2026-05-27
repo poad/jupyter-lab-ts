@@ -6,19 +6,4 @@ settings:
 
 importers:
 
-  .:
-    devDependencies:
-      pnpm:
-        specifier: ^11.3.0
-        version: 11.3.0
-
-packages:
-
-  pnpm@11.3.0:
-    resolution: {integrity: sha512-LEA9ZZRScodnKx9wVjQ6H3w2NANqZ/+r/MKz11ldhDdo+HhxSNG1fPeVbJBga70ZKFfDY68Z6W0tDsnsV0HSFQ==}
-    engines: {node: '>=22.13'}
-    hasBin: true
-
-snapshots:
-
-  pnpm@11.3.0: {}
+  .: {}
